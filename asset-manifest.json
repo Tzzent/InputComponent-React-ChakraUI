@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InputComponent-React-ChakraUI/static/css/main.4eb6364a.css",
+    "main.js": "/InputComponent-React-ChakraUI/static/js/main.1c775b96.js",
+    "index.html": "/InputComponent-React-ChakraUI/index.html",
+    "main.4eb6364a.css.map": "/InputComponent-React-ChakraUI/static/css/main.4eb6364a.css.map",
+    "main.1c775b96.js.map": "/InputComponent-React-ChakraUI/static/js/main.1c775b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb6364a.css",
+    "static/js/main.1c775b96.js"
+  ]
+}
