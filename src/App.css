@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main h2 {
+  font-size: 2rem;
+}
+
+.row {
+  display: flex;
+  margin: 20px auto;
+  gap: 100px;
+}
+
+.main p {
+  font-size: .8rem;
+  margin-bottom: 5px;
+}
+
+@media (max-width:925px) {
+  .row {
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 50px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 40px 60px;
+  }
+
+  .row-special {
+    width: auto;
+  }
+}
